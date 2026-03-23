@@ -2,7 +2,7 @@
 
 # TrustKey
 
-**Secure authentication solutions and embedded security platforms**
+**Building secure authentication devices and embedded security technologies**
 
 </div>
 
@@ -10,30 +10,27 @@
 
 ## About
 
-TrustKey develops secure authentication technologies and embedded security solutions for trusted digital access.
+TrustKey builds secure authentication solutions and embedded security technologies for trusted digital environments.
 
-Our GitHub organization manages projects related to authentication devices, embedded firmware, security integration, and development tools.
+This organization hosts repositories for firmware development, security tools, integration resources, and collaboration projects.
 
-## Focus Areas
+## Core Technologies
 
 - FIDO2 / U2F
 - PIV / Smart Card
 - OTP
 - USB HID / CCID
-- Embedded Security Firmware
-- Key & Certificate Management
-- Secure Device Integration
+- Embedded Security
+- Certificate & Key Management
 
 ## Repositories in This Organization
 
-- Firmware development
+- Firmware projects
 - Device management tools
-- Integration resources
-- Internal collaboration projects
+- Security integration resources
+- Internal collaboration repositories
 - Partner-facing repositories
 
 ## Learn More
 
-Visit our website to learn more about TrustKey and our security solutions:
-
-👉 https://www.trustkey.kr/
+🌐 https://www.trustkey.kr/
